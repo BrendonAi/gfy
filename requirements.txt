@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+torch
+websocket-client
+requests
+umap
+seaborn
+torchcam
+signalrcore
